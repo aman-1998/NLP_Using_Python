@@ -1,5 +1,6 @@
 # To install the required packages, run:
 # pip install -r requirements.txt
+# ./venv/Scripts/pip install -r requirements.txt
 
 # If you want to install a package individually, run:
 # pip install package_name
@@ -14,3 +15,4 @@ flask
 memory_profiler
 streamlit
 scikit-learn
+nltk
