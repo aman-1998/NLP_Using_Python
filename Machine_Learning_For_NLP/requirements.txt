@@ -17,3 +17,4 @@ streamlit
 scikit-learn
 nltk
 charset-normalizer
+tensorflow
